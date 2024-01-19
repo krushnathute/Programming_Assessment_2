@@ -4,6 +4,23 @@
 
 The dataset used in this analysis focuses on suicide cases in India, providing a comprehensive view of various factors influencing such incidents. The dataset includes information on suicides categorized by different parameters, such as year, state or union territory (UT), gender, age group, specific causes, and total counts. The data spans multiple years, allowing for the exploration of trends and patterns over time.
 
+# INTRODUCTION TO DATASET
+1.STATE/UT: The state or union territory within India where the suicide cases are reported.
+2.Year: The calendar year in which the suicide cases occurred.
+3.CAUSE: The cause or reason attributed to each reported suicide case.
+4.Male upto 14 years: The count of male suicide cases in the age group up to 14 years.
+5.Male 15-29 years: The count of male suicide cases in the age group 15 to 29 years.
+6.Male 30-44 years: The count of male suicide cases in the age group 30 to 44 years.
+7.Male 45-59 years: The count of male suicide cases in the age group 45 to 59 years.
+8.Male 60 years and above: The count of male suicide cases in the age group 60 years and above.
+9.Total Male: The total count of male suicide cases across all age groups.
+10.Female upto 14 years: The count of female suicide cases in the age group up to 14 years.
+11.Female 15-29 years: The count of female suicide cases in the age group 15 to 29 years.
+12.Female 30-44 years: The count of female suicide cases in the age group 30 to 44 years.
+13.Female 45-59 years: The count of female suicide cases in the age group 45 to 59 years.
+14.Female 60 years and above: The count of female suicide cases in the age group 60 years and above.
+15.Total Female: The total count of female suicide cases across all age groups.
+16.Grand Total: The overall total count of suicide cases, combining both male and female across all age groups.
 
 ## LIBRARIES 
 This repository contains a Jupyter Notebook (`Final PRogramming AsS 22.ipynb`) that performs various analyses on suicide data. The analysis is carried out using Python libraries such as: 
